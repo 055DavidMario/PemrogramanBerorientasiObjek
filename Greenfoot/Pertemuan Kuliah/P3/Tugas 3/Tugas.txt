@@ -1,0 +1,4 @@
+Tugas 3:
+- Hero nabrak Enemy BOOM keduanya
+- Ketika tabrakan, hero akan muncul kembali di tempat awal // setLoc
+- Enemy punya kekuatan nembak
